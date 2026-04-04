@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anshul Srivastava</h1>
+<h1 align="center">Hi 👋, I'm Aditya Kumar Sharma</h1>
 
 <h3 align="center">
 🚀 Full-Stack Developer | MERN | AI Enthusiast
@@ -15,7 +15,7 @@
 - 🔭 Building Full-Stack & AI-powered applications  
 - 💬 Ask me about **React, Node.js, MongoDB, MERN Stack**  
 - 🌱 Currently learning **Advanced Backend**  
-- 📫 Reach me at: **anshulakgec@gmail.com**
+- 📫 Reach me at: **achieveraditya2@gmail.com**
 
 ---
 
