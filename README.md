@@ -22,11 +22,11 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-<a href="[https://linkedin.com/in/anshul-srivastava](https://www.linkedin.com/in/aditya-kumar-sharma-759b17296?utm_source=share_via&utm_content=profile&utm_medium=member_android)" target="blank">
+<a href="https://www.linkedin.com/in/aditya-kumar-sharma-759b17296/" target="blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
-<a href="[https://leetcode.com/u/2910_anshul/](https://codolio.com/profile/AdityaS./card)" target="blank">
-<img src="https://cdn.simpleicons.org/codolio" height="40" />
+<a href="https://codolio.com/profile/AdityaS./card" target="blank">
+<img src="https://codolio.com/codolio_assets/codolio.svg" height="40" />
 </a>
 <a href="https://github.com/vincenzo4002" target="blank">
 <img src="https://skillicons.dev/icons?i=github" height="40" />
