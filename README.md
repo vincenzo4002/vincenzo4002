@@ -67,7 +67,7 @@
 ## 🧠 LeetCode Stats
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/2910_anshul?theme=dark&font=baloo&border_radius=10" />
+<img src="https://codolio.com/profile/AdityaS./card?theme=dark&font=baloo&border_radius=10" />
 </p>
 
 ---
