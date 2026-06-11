@@ -67,7 +67,9 @@
 ## 🧠 Codolio Profile
 
 <p align="center">
-<img src="https://codolio.com/profile/AdityaS./card" />
+<a href="https://codolio.com/profile/AdityaS./card" target="_blank">
+<img src="https://img.shields.io/badge/Codolio-Profile-blue?style=for-the-badge" />
+</a>
 </p>
 
 ---
