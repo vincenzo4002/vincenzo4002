@@ -64,10 +64,10 @@
 
 ---
 
-## 🧠 LeetCode Stats
+## 🧠 Codolio Profile
 
 <p align="center">
-<img src="https://codolio.com/profile/AdityaS./card?theme=dark&font=baloo&border_radius=10" />
+<img src="https://codolio.com/profile/AdityaS./card" />
 </p>
 
 ---
