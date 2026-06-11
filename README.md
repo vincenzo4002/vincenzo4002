@@ -58,8 +58,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=anshul-29102004&show_icons=true&theme=radical&border_radius=10" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anshul-29102004&theme=radical&border_radius=10" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vincenzo4002&show_icons=true&theme=radical&border_radius=10" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vincenzo4002&theme=radical&border_radius=10" height="160"/>
 </p>
 
 ---
@@ -75,7 +75,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=anshul-29102004&theme=radical&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=vincenzo4002&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -83,7 +83,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anshul-29102004&theme=react-dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vincenzo4002&theme=react-dark" />
 </p>
 
 ---
